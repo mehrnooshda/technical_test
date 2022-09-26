@@ -6,7 +6,6 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 import mysql.connector
 import psutil
-
 DEBUG = True
 HOST = '0.0.0.0'
 PORT = '6500'
