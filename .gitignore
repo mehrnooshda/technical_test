@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+bin
+.idea
+.env
+
+venv
+venv/
+venv/*
+/venv
+/venv/
+/venv/*
+.venv
+
+__pycache__/
